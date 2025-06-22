@@ -82,10 +82,7 @@
             //the output is --> d)7,7
             #endregion
             #region
-            /*
-             finish is assigment
-             */
-            #endregion
+           
         }
 
 
